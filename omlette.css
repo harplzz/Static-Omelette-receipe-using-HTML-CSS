@@ -1,0 +1,80 @@
+*{
+    
+    box-sizing: border-box;
+    /* padding:0px;  */
+    /* margin:0px; */
+
+}
+body{
+    width: 100%;
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin:20px;
+    background-color: rgba(231, 62, 203,0.1);
+
+}
+
+ .d1{
+      width:500px;
+    height:250px; 
+    padding: 80px;
+    /* /* width:550px;
+    height:300px; */
+    border-radius:30px;
+
+     background-color:white;
+    background-image: url(/image-omelette.jpeg);
+    background-repeat: no-repeat;
+    background-position:top center;
+    background-size:contain;
+    background-attachment:scroll; 
+ }
+section{
+    width:500px;
+    /* height:auto; */
+    background-color:white;
+    border-radius: 30px;
+    padding:40px;
+    box-sizing:content-box;
+    margin-top: 30px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+}
+
+.d2{
+    width:500px;
+    height:180px;
+    background-color: rgba(231, 62, 203,0.1);
+    border-radius: 20px;
+    padding-top:5px;
+}
+h3,h2{
+    color:maroon;
+    padding-left: 10px;;
+      font-family: "Kanit", sans-serif;
+}
+.d3{
+    font-family: "Kanit", sans-serif;
+    font-size: 18px;
+}
+#li{
+    font-family: "Kanit", sans-serif;
+}
+
+#ni{
+    padding-left: 2px;
+}
+tr{
+    border-bottom:2px solid rgba(231, 62, 203,0.1);
+
+    
+}
+table{
+    border-collapse:collapse;
+    
+}
